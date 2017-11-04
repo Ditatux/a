@@ -2,6 +2,7 @@ body{
   text-alighn: center;
   font-family: arial;
   font-size:10px;
+  background:#666666;
 }
 
 li{
@@ -11,8 +12,8 @@ li{
 }
 
 .header{
-  background:#f4f4f4;
-  border-bottom:#ccc 3px solid;
+  background:#4f4f4f;
+  border-bottom:#2d2d2d 3px solid;
   padding:20px;
 }
 
