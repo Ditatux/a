@@ -1,5 +1,4 @@
 body{
-  text-alighn: center;
   font-family: arial;
   font-size:10px;
   background:#adadad;
@@ -15,9 +14,13 @@ li{
   background:#8c8c8c;
   border-bottom:#3d3d3d 3px solid;
   padding:20px;
+  text-alighn: center;
 }
 
 .container{
   width:700px;
   margin:30px auto;
+  background:#8c8c8c;
+  border-bottom:#3d3d3d 3px solid;
+  padding:20px;
 }
