@@ -1,7 +1,7 @@
 body{
   font-family: arial;
   font-size:10px;
-  background:#adadad;
+  background:#cecece;
 }
 
 li{
@@ -11,8 +11,8 @@ li{
 }
 
 .header{
-  background:#8c8c8c;
-  border-bottom:#3d3d3d 3px solid;
+  background:#969696;
+  border-bottom:#777777 3px solid;
   padding:20px;
   text-alighn: center;
 }
@@ -20,7 +20,7 @@ li{
 .container{
   width:700px;
   margin:30px auto;
-  background:#8c8c8c;
-  border-bottom:#3d3d3d 3px solid;
+  background:#969696;
+  border-bottom:#777777 3px solid;
   padding:20px;
 }
