@@ -2,7 +2,7 @@ body{
   text-alighn: center;
   font-family: arial;
   font-size:10px;
-  background:#666666;
+  background:#adadad;
 }
 
 li{
@@ -12,8 +12,8 @@ li{
 }
 
 .header{
-  background:#4f4f4f;
-  border-bottom:#2d2d2d 3px solid;
+  background:#8c8c8c;
+  border-bottom:#3d3d3d 3px solid;
   padding:20px;
 }
 
