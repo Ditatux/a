@@ -13,14 +13,23 @@ li{
 .header{
   background:#969696;
   border-bottom:#777777 3px solid;
-  padding:20px;
+  padding:5px;
   text-alighn: center;
 }
-
-.container{
-  width:700px;
+.containerright{
+  width:600px;
   margin:30px auto;
   background:#969696;
   border-bottom:#777777 3px solid;
-  padding:20px;
+  padding:5px;
+  float: right;
+}
+
+.containerleft{
+  width:300px;
+  margin:30px auto;
+  background:#969696;
+  border-bottom:#777777 3px solid;
+  padding:5px;
+  float: left;
 }
